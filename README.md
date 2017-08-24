@@ -1,9 +1,7 @@
-# spurt
-Spurtcommerce is a complete ecommerce solution for Angular 4 , Nodejs , Mysql
 
 # What is SpurtCommerce?
 
-
+Spurtcommerce is a complete ecommerce solution for Angular 4 , Nodejs , Mysql , Loopback
 
 # Why did we build it?
 
@@ -11,4 +9,8 @@ Spurtcommerce is a complete ecommerce solution for Angular 4 , Nodejs , Mysql
 # What are the Features Includes?
 
 
-# Spurtcommerce / Who We Are?
+#  Who We Are?
+
+## We are avialible for hire
+
+If you want to hire us for a project, please contact us on spurtcommerce@gmail.com
